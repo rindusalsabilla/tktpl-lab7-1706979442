@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Text(
               'Hello World!',
-              style: TextStyle(),
+              style: TextStyle(fontSize: 56, color: Colors.blue),
             ),
           ],
         ),
